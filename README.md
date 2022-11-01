@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2>Prazer sou o Marcelo Danelon  👦🏻💻</h2>
 
-<!--
-**marcelodanelon/marcelodanelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelodanelon/)
+[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:marcelodanelon11@gmail.com)
 
-Here are some ideas to get you started:
+<h3>Você pode conhecer meu portifólio em (https://marcelodanelon.github.io/)</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente atuo como Analista de Suporte e Implantação. Realizo a criação de projetos autônomos, como automação de processos web e sistemas próprios em VBA e C#. Estou estudando desenvolvimento web back-end no Senac Americana.
+- 🎮 <b>Desenvolvimento de jogos com Unity e C#.</b>
+- 🌐 <b>Desenvolvimento web utilizando HTML, CSS, JavaScript e PHP.</b>
+- 📊  <b>Desenvolvimento de Automações Web com Python.</b>
+- 🛠 <b>Desenvolvimento de sistemas em VBA.</b>
+
+<hr>
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelodanelon&show_icons=true&layout=compact" />
+</p>
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodanelon&show_icons=true&layout=compact" />
+</p>
