@@ -1,4 +1,4 @@
-<h2>Prazer sou o Marcelo Danelon  👦🏻💻</h2>
+<h2>Prazer sou o Marcelo Danelon  👦🏻💻🎖️</h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelodanelon/)
 [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:marcelodanelon11@gmail.com)
