@@ -7,7 +7,7 @@
 
 Atualmente atuo como Analista de Suporte e Implantação. Realizo a criação de projetos autônomos, como automação de processos web e sistemas próprios em VBA e C#. Estou estudando desenvolvimento web back-end no Senac Americana.
 - 🎮 <b>Desenvolvimento de jogos com Unity e C#.</b>
-- 🌐 <b>Desenvolvimento web utilizando HTML, CSS, JavaScript e PHP.</b>
+- 🌐 <b>Desenvolvimento web utilizando HTML, CSS e PHP.</b>
 - 📊  <b>Desenvolvimento de Automações Web com Python.</b>
 - 🛠 <b>Desenvolvimento de sistemas em VBA.</b>
 
